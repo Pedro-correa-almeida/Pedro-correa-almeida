@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Pedro-correa-almeida](https://github-readme-stats.vercel.app/api?username=Pedro-correa-almeida)](https://github.com/Pedro-correa-almeida/github-readme-stats)
+[![Pedro-correa-almeida](https://github-readme-stats.vercel.app/api?username=Pedro-correa-almeida&show_icons=true&theme=radical)
+)](https://github.com/Pedro-correa-almeida/github-readme-stats)
 
 <!--
 **Pedro-correa-almeida/Pedro-correa-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
