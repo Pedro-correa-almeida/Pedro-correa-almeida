@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Pedro-correa-almeida](https://github-readme-stats.vercel.app/api?username=Pedro-correa-almeida&show_icons=true&theme=radical)
-)](https://github.com/Pedro-correa-almeida/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-correa-almeida&layout=compact)](https://github.com/Pedro-correa-almeida/github-readme-stats)
+)](https://github.com/Pedro-correa-almeida/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-correa-almeida)](https://github.com/Pedro-correa-almeida/github-readme-stats)
 
 
 
