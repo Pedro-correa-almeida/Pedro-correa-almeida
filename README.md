@@ -3,7 +3,7 @@
 I'm statistics student at Universidade Federal de Juiz de Fora(UFJF), Brazil.Currently I'm exploring the Data Science universe, focusing my studies for learning Python and its libraries, besides that I've started to learn SQL, R and Power Bi.
 
 [![Pedro-correa-almeida](https://github-readme-stats.vercel.app/api?username=Pedro-correa-almeida&show_icons=true&theme=radical)
-)](https://github.com/Pedro-correa-almeida/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-correa-almeida)](https://github.com/Pedro-correa-almeida/github-readme-stats)
+)](https://github.com/Pedro-correa-almeida/github-readme-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-correa-almeida)](https://github.com/Pedro-correa-almeida/github-readme-stats)
 
 
 
