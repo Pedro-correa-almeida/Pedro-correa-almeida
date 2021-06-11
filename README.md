@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Pedro Corrêa 👋
 
 I'm statistics student at Universidade Federal de Juiz de Fora(UFJF), Brazil.Currently I'm exploring the Data Science universe, focusing my studies for learning Python and its libraries, besides that I've started to learn SQL, R and Power Bi.
 
